@@ -2,12 +2,12 @@
 
 This is my personal resume template written with Latex. The template is based on Sourabh Bajaj's resume template. 
 
-###Languages
+### Languages
 
 * German
 * Englishes
 
-###TODO
+### TODO
 
 * write an resume in English
 
